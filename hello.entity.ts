@@ -8,3 +8,5 @@ export class HelloEntity extends BaseEntity{
     @Column()
     name:string
 }
+
+//hola como va?
